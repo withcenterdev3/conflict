@@ -1,5 +1,9 @@
 # conflict
 
+The iterative version is much faster and better for larger numbers since the recursive version has exponential time complexity.
+
+If you'd like, I can also provide a version using memoization or streams.
+
 ```dart
 import 'dart:io';
 
