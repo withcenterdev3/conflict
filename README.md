@@ -1,9 +1,6 @@
 # conflict
 
 /// User A --- Update this code
-
-/// 0,1,1,2,3,5...
-
 List<int> generateFibonacci(int n) {
 if (n <= 0) return [];
 if (n == 1) return [0];
@@ -16,4 +13,10 @@ if (n == 1) return [0];
 
     return sequence;
 
+}
+
+/// User B
+void main() {
+int n = 10;
+generateFibonacci(n);
 }
