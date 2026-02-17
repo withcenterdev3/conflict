@@ -1,5 +1,7 @@
 # conflict
-
+Here’s a simple Dart program
+that computes
+and prints the Fibonacci sequence.
 ```dart
 import 'dart:io';
 
