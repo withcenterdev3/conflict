@@ -1,8 +1,12 @@
 # conflict
 
+```txt
 The iterative version is much faster and better for larger numbers since the recursive version has exponential time complexity.
 
 If you'd like, I can also provide a version using memoization or streams.
+
+Here’s a simple Dart program that computes and prints the Fibonacci sequence.
+```
 
 ```dart
 import 'dart:io';
